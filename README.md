@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Veronika
-- 👀 I’m interested in neuroscience, data science and machine learning
+- 👀 Mostly working on topics in neuroscience, data science and machine learning
